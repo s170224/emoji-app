@@ -1,0 +1,54 @@
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 400px;
+  width: 60vh;
+  height: 50vh;
+  font-family: 'Roboto';
+  background-color: #ffffff33;
+  margin-top: 80px;
+  border-radius: 12px;
+  font-family: 'Roboto';
+}
+.min-Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image1 {
+  height: 200px;
+  width: 200px;
+}
+.playAgainButton {
+  height: 50px;
+  width: 100px;
+  background-color: #ffce27;
+  border-radius: 16px;
+  color: #3d3d3d;
+  border-style: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+.scorepara {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin: 0px;
+  text-align: center;
+}
+.mainScore {
+  color: #6a59ff;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+  margin: 0px;
+}
+
+.image-section {
+  display: flex;
+  justify-content: center;
+}

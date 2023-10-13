@@ -1,0 +1,21 @@
+.emojiItemContainer {
+  /* background-color: #9796f0; */
+
+  padding: 2px;
+  margin: 2px;
+  list-style-type: none;
+}
+
+.emojiButtom {
+  background-color: #ffffff33;
+  border-radius: 24px;
+  border: 3px solid #ffffff30;
+  outline: none;
+  height: 140px;
+  width: 140px;
+  cursor: pointer;
+}
+
+.emoji-icon {
+  width: 50px;
+}

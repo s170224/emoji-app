@@ -1,0 +1,21 @@
+.container {
+  background-image: linear-gradient(to top, #fbc7d4, #9796f0);
+  color: #ffffff;
+  font-family: 'Roboto';
+  min-height: 100vh;
+}
+.nav-con {
+  border-color: #ffffff30;
+}
+.emojiContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 1000px;
+  padding-left: 300px;
+  /* padding-right: 20px; */
+  margin: 20px;
+  padding-top: 50px;
+}
